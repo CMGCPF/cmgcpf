@@ -1,7 +1,7 @@
 ## Python 
 
-- `discord.py` : Protection contre les raid, abus, lien...
-- IA : tokenizers BPE, entraînement sur corpus textuels.
+- `discord.py` : Protection contre les raids, abus, liens...
+- `IA` : tokenizers BPE, entraînement sur corpus textuels.
 
 ---
 
@@ -9,7 +9,7 @@
 
 ---
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+[![Python](https://skillicons.dev/icons?i=python)](https://python.org/)
 
 ---
 
