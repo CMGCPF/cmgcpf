@@ -13,4 +13,4 @@
 
 ---
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=cmgcpf&&theme=radical&hide_border=true&date_format=%5BY%20%5DM%20h"> 
+[![wakatime](https://wakatime.com/badge/user/54d7f435-0038-45a7-998b-4744c82d9bdb/project/50828b64-8909-4ad7-a445-890db0e96721.svg)](https://wakatime.com/badge/user/54d7f435-0038-45a7-998b-4744c82d9bdb/project/50828b64-8909-4ad7-a445-890db0e96721)
