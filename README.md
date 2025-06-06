@@ -5,7 +5,7 @@
 
 ---
 
-[![wakatime](https://wakatime.com/badge/user/54d7f435-0038-45a7-998b-4744c82d9bdb.svg)](https://wakatime.com/@54d7f435-0038-45a7-998b-4744c82d9bdb)
+[![temps de dev](https://wakatime.com/badge/user/54d7f435-0038-45a7-998b-4744c82d9bdb.svg)](https://wakatime.com/@54d7f435-0038-45a7-998b-4744c82d9bdb)
 
 ---
 
