@@ -5,4 +5,12 @@
 
 ---
 
+[![wakatime](https://wakatime.com/badge/user/54d7f435-0038-45a7-998b-4744c82d9bdb.svg)](https://wakatime.com/@54d7f435-0038-45a7-998b-4744c82d9bdb)
+
+---
+
 ![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=cmgcpf&layout=compact&langs_count=10)
+
+---
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=cmgcpf&&theme=radical&hide_border=true&date_format=%5BY%20%5DM%20h"> 
