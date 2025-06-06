@@ -9,7 +9,7 @@
 
 ---
 
-![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=cmgcpf&layout=compact&langs_count=10)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
