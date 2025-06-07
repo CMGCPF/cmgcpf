@@ -13,4 +13,11 @@
 
 ---
 
-![Dev Stats](https://github-readme-stats.vercel.app/api/wakatime?username=cmgcpf)
+<div align="center" style="margin-top: 20px;">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=cmgcpf&theme=radical&hide_border=true&date_format=%5BY%20%5DM%20h" 
+    alt="Statistiques cmgcpf" 
+    style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3); max-width: 100%; height: auto;"
+  />
+</div>
+
