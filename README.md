@@ -5,11 +5,15 @@
 
 ---
 
-[![temps de dev](https://wakatime.com/badge/user/54d7f435-0038-45a7-998b-4744c82d9bdb.svg)](https://wakatime.com/@54d7f435-0038-45a7-998b-4744c82d9bdb)
+[![CSS](https://skillicons.dev/icons?i=css)]()
+[![Python](https://skillicons.dev/icons?i=python)]()
+[![HTML](https://skillicons.dev/icons?i=html)]()
 
 ---
 
-[![Python](https://skillicons.dev/icons?i=python)](https://python.org/)
+[![PYCHARM](https://skillicons.dev/icons?i=pycharm)](https://www.jetbrains.com/pycharm)
+[![VSCODE](https://skillicons.dev/icons?i=vscode)]()
+[![WEBSTORM](https://skillicons.dev/icons?i=webstorm)](https://www.jetbrains.com/webstorm)
 
 ---
 
