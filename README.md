@@ -1,19 +1,30 @@
-## Python 
+<div align="center">
+<h2>Que du Python mais surtout du Python</h2>
 
-- `discord.py` : Protection contre les raids, abus, liens...
-- `IA` : tokenizers BPE, entraînement sur corpus textuels.
-
----
-
-[![CSS](https://skillicons.dev/icons?i=css)]()
-[![Python](https://skillicons.dev/icons?i=python)]()
-[![HTML](https://skillicons.dev/icons?i=html)]()
+ `discord.py` : Protection contre les raids, abus, liens... <br>
+ `IA` : tokenizers BPE, entraînement sur corpus textuels.
+</div>
 
 ---
 
-[![PYCHARM](https://skillicons.dev/icons?i=pycharm)](https://www.jetbrains.com/pycharm)
-[![VSCODE](https://skillicons.dev/icons?i=vscode)]()
-[![WEBSTORM](https://skillicons.dev/icons?i=webstorm)](https://www.jetbrains.com/webstorm)
+<div align="center">
+
+[![Python](https://skillicons.dev/icons?i=python)]()  &nbsp;
+[![CSS](https://skillicons.dev/icons?i=css)]()  &nbsp;
+[![HTML](https://skillicons.dev/icons?i=html)]()  &nbsp;
+[![NODEJS](https://skillicons.dev/icons?i=nodejs)]()&nbsp;
+
+</div>
+
+---
+
+<div align="center">
+
+[![PYCHARM](https://skillicons.dev/icons?i=pycharm)](https://www.jetbrains.com/pycharm)  &nbsp;
+[![VSCODE](https://skillicons.dev/icons?i=vscode)]()  &nbsp;
+[![WEBSTORM](https://skillicons.dev/icons?i=webstorm)](https://www.jetbrains.com/webstorm)  &nbsp;
+
+</div>
 
 ---
 
