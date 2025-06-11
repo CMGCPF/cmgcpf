@@ -8,6 +8,14 @@
 ---
 
 <div align="center">
+ 
+[![Silent protect](https://img.shields.io/discord/1172575351935881237?color=5865F2&label=Silent-Protect&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/9sGV324tHz)
+ 
+ </div>
+ 
+---
+
+<div align="center">
 
 [![Python](https://skillicons.dev/icons?i=python)]()  &nbsp;
 [![CSS](https://skillicons.dev/icons?i=css)]()  &nbsp;
