@@ -15,6 +15,12 @@
  
 ---
 
+<a href="https://top.gg/bot/1149651222677159987">
+  <img src="https://top.gg/api/widget/1149651222677159987.svg">
+</a>
+
+---
+
 <div align="center">
 
 [![Python](https://skillicons.dev/icons?i=python)]()  &nbsp;
