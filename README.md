@@ -8,17 +8,15 @@
 ---
 
 <div align="center">
- 
 [![Silent protect](https://img.shields.io/discord/1172575351935881237?color=5865F2&label=Silent-Protect&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/9sGV324tHz)
- 
- </div>
+</div>
  
 ---
-
-<a href="https://top.gg/bot/1149651222677159987">
-  <img src="https://top.gg/api/widget/1149651222677159987.svg">
-</a>
-
+<div align="center">
+ <a href="https://top.gg/bot/1149651222677159987">
+   <img src="https://top.gg/api/widget/1149651222677159987.svg">
+ </a>
+</div>
 ---
 
 <div align="center">
