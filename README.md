@@ -9,7 +9,7 @@
 
 <div align="center">
  
-[![Silent protect](https://silent-protect.eu/vercel/badge-compact.php?type=all)](https://discord.gg/9sGV324tHz)
+[![Silent protect](https://silent-protect.eu/vercel/badge-compact.php?type=all)](https://silent-protect.eu)
 
 </div>
 
