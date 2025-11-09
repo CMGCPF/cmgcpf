@@ -45,6 +45,14 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=cmgcpf&theme=tokyonight&hide_border=true&date_format=%5BY%20%5DM%20h"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=cmgcpf&theme=tokyonight&hide_border=true&date_format=%5BY%20%5DM%20h&langs_count=5"/>
 </p>
 
+---
+
+<div align="center">
+ 
+![](https://github-readme-stats.vercel.app/api?username=cmgcpf&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cmgcpf&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
