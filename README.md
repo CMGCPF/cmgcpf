@@ -12,14 +12,6 @@
 [![Silent protect](https://silent-protect.eu/vercel/badge-compact.php?type=all)](https://discord.gg/9sGV324tHz)
 
 </div>
- 
----
-
-<div align="center">
- <a href="https://top.gg/bot/1149651222677159987">
-   <img src="https://top.gg/api/widget/1149651222677159987.svg">
- </a>
-</div>
 
 ---
 
