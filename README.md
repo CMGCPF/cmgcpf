@@ -1,13 +1,4 @@
 <div align="center">
-<h2>Oui</h2>
-
- `discord.py` : Protection <br>
- `IA` : LSTM, RNN, MT
-</div>
-
----
-
-<div align="center">
  
 [![Silent protect](https://silent-protect.eu/vercel/badge-compact.php?type=all)](https://silent-protect.eu)
 
